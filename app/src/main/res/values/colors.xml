@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="SpinerTextColor">#FFF</color>
+    <color name="background">#137DD5</color>
+    <color name="poool">#9B000000</color>
+    <color name="pool_text_color">#FFF</color>
+</resources>

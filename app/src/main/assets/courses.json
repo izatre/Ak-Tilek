@@ -1,0 +1,55 @@
+[
+  {
+    "time": "16:00",
+    "id": 1,
+    "mainText" : "плавание",
+    "url": "https://www.columbiaassociation.org/wp-content/uploads/2016/05/swimcenter-1.jpg",
+    "text": "плавание",
+    "day": "среда"
+  },
+  {
+    "id": 2,
+    "time": "15:00",
+    "mainText" : "Футбол",
+    "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuPkT6qtR8aK7Y22CO_WCq2CfbC4ifHcFfsw-ReMUplyjkzZ94-w&s",
+    "text": "футбол",
+    "day": "четверг"
+  },
+  {
+    "id": 3,
+    "time": "15;00",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8OUS5KntNo9u45v5I_vfWGW8lmiqce6WQ-9DeMnNCqBArK3WC&s",
+    "text ": "English",
+    "day": "понедельник",
+    "mainText" : "English"
+
+  },
+  {
+    "id" : 4,
+    "time" : "15:30",
+    "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbfdx6E53WZV1Q5oSLc9kf61_TDSdriQfmHseSyra0sMLPAZpi&s",
+    "text": "йога",
+    "day" : "пятница",
+    "mainText" :"Йога"
+  },
+  {
+    "id" : 5,
+    "time" : "16:00",
+    "url": "http://konevodstvo.su/news/item/f00/s04/n0000429/pic/000002.jpg",
+    "text" : "конный спорт",
+    "day": "понедельник",
+    "mainText" :"Конный Спорт"
+
+
+
+
+  },
+  {
+    "id" : 6,
+    "time" : "17:00",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQogCj2Dtn4PsD1WcK3PNI7pgmQsI0eR3_UYBFwY84SkaDZot5&s",
+    "text" : "кулинария",
+    "day": "понедельник",
+    "mainText" : "Кулинария"
+  }
+]

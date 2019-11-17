@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Ak-Tilek</string>
+    <string name="schedule">Расписание</string>
+    <string name="courses">Кружки</string>
+    <string name="time">%s-%s</string>
+    <string-array name="claces">
+        <item>10</item>
+        <item>9</item>
+        <item>8</item>
+        <item>7</item>
+    </string-array>
+
+    <string-array name="days">
+        <item>пн</item>
+        <item>вт</item>
+        <item>ср</item>
+        <item>чт</item>
+        <item>пт</item>
+    </string-array>
+
+
+</resources>
+
